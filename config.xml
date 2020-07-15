@@ -11,6 +11,11 @@
     <allow-intent href="sms:*" />
     <allow-intent href="mailto:*" />
     <allow-intent href="geo:*" />
+    <allow-navigation href="https://js.pay.jp" />
+    <allow-navigation href="https://api.pay.jp" />
+    <allow-navigation href="httpsionic://localhost" />
+    <preference name="Scheme" value="httpsionic" />
+    <preference name="iosScheme" value="httpsionic" />
     <preference name="ScrollEnabled" value="false" />
     <preference name="android-minSdkVersion" value="19" />
     <preference name="BackupWebStorage" value="none" />
