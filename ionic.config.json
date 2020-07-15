@@ -1,5 +1,7 @@
 {
   "name": "payjp-ionic-angular-sample",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
